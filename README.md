@@ -14,3 +14,15 @@ APEX is a functional utility asset used for:
 
 ---
 **Legal Disclaimer:** APEX is a utility token and is not intended as an investment product. Participation in the network is for software utility and service access only.
+---
+
+## Phase 2: External Impact (Active)
+
+**Infrastructure:** Polygon Layer-2 (Selected for low-cost, high-speed SME transactions).
+
+**Primary Pilot:** Agriculture & Perishable Goods Supply Chain.
+*   **Feature:** Real-time logistics tracking via encrypted metadata.
+*   **Validation:** Stress-free "Scan-to-Pay" QR code system.
+*   **Settlement:** Automated Smart Contract release to ensure world-best satisfaction for SMEs.
+
+**Current Milestone:** Finalizing software architecture for the Scan-to-Pay logic and pilot dashboard.
